@@ -1,0 +1,105 @@
+/* style.css */
+:root {
+	--parchment: #f5e6d3;
+	--leather: #3d2b1f;
+	--gold: #c5a47e;
+	--ink: #2a2a2a;
+}
+
+body {
+	background: url('../images/bookstore-bg.jpg') no-repeat center center fixed;
+	background-size: cover;
+	font-family: 'Crimson Text', serif;
+	min-height: 100vh;
+}
+
+.book-themed-container {
+	background: url('../images/parchment-texture.jpg') repeat;
+	border: 3px solid var(--leather);
+	border-radius: 8px;
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+	padding: 2rem;
+	margin: 5rem auto;
+	max-width: 600px;
+	position: relative;
+}
+
+.book-themed-container::before {
+	content: '';
+	position: absolute;
+	top: -15px;
+	left: -15px;
+	right: -15px;
+	bottom: -15px;
+	border: 2px solid var(--gold);
+	border-radius: 12px;
+	z-index: -1;
+}
+
+h1,
+h2 {
+	font-family: 'Cinzel Decorative', cursive;
+	color: var(--leather);
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+	border-bottom: 2px solid var(--gold);
+	padding-bottom: 0.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.form-control {
+	background-color: rgba(255, 255, 255, 0.9);
+	border: 2px solid var(--leather);
+	border-radius: 4px;
+	padding: 0.75rem 1.25rem;
+}
+
+.form-control:focus {
+	border-color: var(--gold);
+	box-shadow: 0 0 0 0.25rem rgba(197, 164, 126, 0.25);
+}
+
+.btn-bookstore {
+	background-color: var(--leather);
+	color: white;
+	padding: 0.75rem 2rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	transition: all 0.3s ease;
+}
+
+.btn-bookstore:hover {
+	background-color: var(--gold);
+	color: var(--leather);
+}
+
+.password-strength {
+	height: 4px;
+	background: #ddd;
+	margin-top: 0.5rem;
+	transition: all 0.3s ease;
+}
+
+.password-match-feedback {
+	font-size: 0.875rem;
+	margin-top: 0.25rem;
+}
+
+.book-icon {
+	width: 40px;
+	margin-right: 10px;
+}
+
+.navbar-brand {
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 1.5rem;
+	color: var(--leather) !important;
+}
+
+.error-message {
+	background-color: #ffebee;
+	color: #b71c1c;
+	border-left: 4px solid #b71c1c;
+	padding: 1rem;
+	margin-bottom: 1rem;
+}
