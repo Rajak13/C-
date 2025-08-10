@@ -1,0 +1,15 @@
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\bin\Debug\net9.0\MyFirstApp.exe
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\bin\Debug\net9.0\MyFirstApp.deps.json
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\bin\Debug\net9.0\MyFirstApp.runtimeconfig.json
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\bin\Debug\net9.0\MyFirstApp.dll
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\bin\Debug\net9.0\MyFirstApp.pdb
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.sourcelink.json
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.dll
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\refint\MyFirstApp.dll
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.pdb
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\MyFirstApp.genruntimeconfig.cache
+C:\Users\rajak\OneDrive - London Metropolitan University\Desktop\BIT Year 3\CS6004 Application Development\MyFirstApp\obj\Debug\net9.0\ref\MyFirstApp.dll
